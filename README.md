@@ -12,7 +12,7 @@ Pagina de Login
   <img align="center" alt="roodrigoomendes-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="roodrigoomendes-VITEJS" height="30" width="40" src="https://vitejs.dev/logo.svg">
   <img align="center" alt="roodrigoomendes-REACTJS" height="30" width="40" src="https://www.svgrepo.com/show/303157/react-logo.svg">
-  <img align="center" alt="roodrigoomendes-REACTJS" height="30" width="40" src="https://images.tute.io/tute/topic/tailwind-css.png">
+  <img align="center" alt="roodrigoomendes-Tailwindcss" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png">
 
   
 </div>
